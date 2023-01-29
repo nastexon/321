@@ -1,0 +1,15 @@
+C:\Users\Слушатель\Desktop\контрольная\bin\Debug\net6.0\контрольная.exe
+C:\Users\Слушатель\Desktop\контрольная\bin\Debug\net6.0\контрольная.deps.json
+C:\Users\Слушатель\Desktop\контрольная\bin\Debug\net6.0\контрольная.runtimeconfig.json
+C:\Users\Слушатель\Desktop\контрольная\bin\Debug\net6.0\контрольная.dll
+C:\Users\Слушатель\Desktop\контрольная\bin\Debug\net6.0\контрольная.pdb
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.csproj.AssemblyReference.cache
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.AssemblyInfoInputs.cache
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.AssemblyInfo.cs
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.csproj.CoreCompileInputs.cache
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.dll
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\refint\контрольная.dll
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.pdb
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\контрольная.genruntimeconfig.cache
+C:\Users\Слушатель\Desktop\контрольная\obj\Debug\net6.0\ref\контрольная.dll
